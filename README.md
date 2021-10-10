@@ -1,3 +1,5 @@
 # Learning React
 
-> Learning, unlearning, learning
+Let's gooo
+
+> Learn, unlearn, learn
