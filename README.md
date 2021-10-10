@@ -2,4 +2,4 @@
 
 Let's gooo
 
-> Learn, unlearn, learn
+> Learning, unlearning, learning...
